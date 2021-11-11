@@ -87,4 +87,4 @@ Feito por Vivaldo Chagas e Thaís Emanuelle 👋🏽 Entre em contato!
 [![Github Badge](https://img.shields.io/badge/-Vivaldo-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nosferatuvjr)](https://www.github.com/Nosferatuvjr)
 [![Instagram Badge](https://img.shields.io/badge/-Vivaldo-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1997vjr/)](https://www.instagram.com/1997vjr/)
 [![Github Badge](https://img.shields.io/badge/-Thaís-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/merigwin)](https://www.github.com/merigwin)
-[![Instagram Badge](https://img.shields.io/badge/-Vivaldo-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/merigwin/)](https://www.instagram.com/merigwin/)
+[![Instagram Badge](https://img.shields.io/badge/-Thaís-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/merigwin/)](https://www.instagram.com/merigwin/)
