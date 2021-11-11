@@ -84,5 +84,5 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 Feito por Vivaldo Chagas e Thaís Emanuelle 👋🏽 Entre em contato!
 
-[![Github Badge](https://img.shields.io/badge/-Vivaldo-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nosferatuvjr)](https://www.github.com/Nosferatuvjr)
-[![Github Badge](https://img.shields.io/badge/-Thaís Emanuelle-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/merigwin)](https://www.github.com/merigwin)
+[![Github Badge](https://img.shields.io/badge/-Vivaldo-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nosferatuvjr)](https://www.github.com/Nosferatuvjr)
+[![Github Badge](https://img.shields.io/badge/-Thaís-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/merigwin)](https://www.github.com/merigwin)
