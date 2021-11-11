@@ -5,7 +5,7 @@
 <h1 align="center">
     ig.News - Next.js
 </h1>
-<p align="center">Inscrição em Newsletter com pagamento via stripe.</p>
+<p align="center">Inscrição em Newsletter com pagamento via stripe. (Em produção!)</p>
 
 <p align="center">
  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
