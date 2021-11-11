@@ -76,7 +76,7 @@ $ yarn dev
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja [LICENÇA](LICENÇA) para mais informações.
+Distribuído sob a licença MIT. Veja [LISENSE](LISENSE) para mais informações.
 
 ---
 
